@@ -2,6 +2,6 @@
 
 ### 수상
 
-  * ![중앙대학교 수상](https://github.com/Anjinhyoung/The-1st-Metaverse-Humanities-Content-Contest/assets/117788976/415242a6-b94e-4b3f-af9d-d57cb0adfd9a){: width="100" height="100"}
+  * ![중앙대학교 수상](https://github.com/Anjinhyoung/The-1st-Metaverse-Humanities-Content-Contest/assets/117788976/415242a6-b94e-4b3f-af9d-d57cb0adfd9a){: width="50" height="50"}
 
 
