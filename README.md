@@ -5,13 +5,5 @@
 #### 수상(장려상)
   <img src="https://github.com/Anjinhyoung/The-1st-Metaverse-Humanities-Content-Contest/assets/117788976/415242a6-b94e-4b3f-af9d-d57cb0adfd9a" width="500" height="500"/>
 
-#### 예선 과정 
-  * url 올리기
-
-#### 본선 과정
-  * url 올리기
-
-#### 결선 과정
-  * url 올리기
 
 
